@@ -1,4 +1,4 @@
-// ERC20Faucet
+// JPMFaucet
 // Copyright (C) 2019 JPM Faucet
 //
 // This program is free software: you can redistribute it and/or modify
